@@ -40,7 +40,7 @@ A good guideline to work ethically as a software engineer is to follow the <a hr
 ### How do you know that your ethical considerations match with those of other software engineers? <a name="ethics.4"></a>
 A great way to check and keep track of whether your decisions are ethical, is to start a conversation about them. They best source of information are fellow software engineers. They are very likely to have opinions on the mate with which you as a software engineer can grow from.
 
-### Questions related to your project:
+### Questions related to my project:
 
 ### Which ethical aspects play a role in your project? <a name="ethics.5"></a>
 My current project has a lot of ethical aspects. Since our project consist of multiple interfaces and multiple different users, we must make sure to do what is right for each and every one of them. A good example of an ethical aspect within our project would be whether we use tracking cookies on our client’s costumer interface. Even though it might be a source of income, it is completely unnecessary for the user experience. I would even go as far as to say it hinders the user experience.
@@ -67,7 +67,8 @@ In order to minimize the afore mentioned problem we could spend more time in ord
 
 ### How would you  act in the future when you know that you need to communicate or collaborate with a person from another culture? <a name="culture.6"></a>
 
-### Questions related to your project (if applicable):
+### Questions related to my project (if applicable):
+
 ### What did you  do to improve the group communications with respect to cultural differences? <a name="culture.7"></a>
 
 
