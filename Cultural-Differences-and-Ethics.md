@@ -83,12 +83,15 @@ The problem with the Chinese joke is that it is funny in that culture because th
 
 
 ### What is your culture? <a name="culture.5"></a>
+My cultural cluster based on geography, as [this site](https://cultureplusconsulting.com/2015/03/24/mapping-cultural-distance-cultural-clusters/) states, is Germanic Europe. I am also however, very active in my online community with people from all over the globe (North America mainly).
 
 ### How would you act in the future when you know that you need to communicate or collaborate with a person from another culture? <a name="culture.6"></a>
+The most important thing to keep in mind is that you need to be respectful of a person’s boundaries. Whether that’s based on certain norms or other social values, it is important to show extra caution. However, it is also important to find a middle ground of things you have in common. This will make communicating not only more efficient, but also more enjoyable
 
 ### Questions related to my project (if applicable):
 
 ### What did you do to improve the group communications with respect to cultural differences? <a name="culture.7"></a>
+Within my project group we have some minor cultural differences, but in general we share a lot of the norms and values, we have the same humor, and we get along very well. In the beginning it’s important to understand what colleagues’ cultures are to create a better work environment. 
 
 
 ##  Sources <a name="sources"></a>
