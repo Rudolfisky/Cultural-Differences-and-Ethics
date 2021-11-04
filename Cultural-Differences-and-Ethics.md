@@ -19,6 +19,7 @@
 3. [Sources](#sources)
 
 ## Ethics <a name="ethics"></a>
+
 ### What is ethics in software engineering? <a name="ethics.1"></a>
 Ethics, as defined by the Dictionary, mean a system of morals. If you where to apply ethics to software engineering, it could be question of whether to make a message notification intrusive or not visible at all, whether to ask for you to register an account to use certain features or to make them unrestricted. 
 Even though these examples have a direct impact on the user experience, that isn’t always the case. A good example of this is user data. You could very easily ask your users to share a bunch of data with you by signing up or accepting cookies, even though the data is not necessary to the user experience. 
@@ -37,17 +38,23 @@ A good guideline to work ethically as a software engineer is to follow the <a hr
 7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
 8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
 ### How do you know that your ethical considerations match with those of other software engineers? <a name="ethics.4"></a>
+A great way to check and keep track of whether your decisions are ethical, is to start a conversation about them. They best source of information are fellow software engineers. They are very likely to have opinions on the mate with which you as a software engineer can grow from.
 
+### Questions related to your project:
 
-Questions related to your project:
 ### Which ethical aspects play a role in your project? <a name="ethics.5"></a>
+My current project has a lot of ethical aspects. Since our project consist of multiple interfaces and multiple different users, we must make sure to do what is right for each and every one of them. A good example of an ethical aspect within our project would be whether we use tracking cookies on our client’s costumer interface. Even though it might be a source of income, it is completely unnecessary for the user experience. I would even go as far as to say it hinders the user experience.
+
 ### Do you foresee ethical conflicts caused by your software? What kind of?  <a name="ethics.6"></a>
+There are a few. A very small one might be the way we store the basket. The basket is made in such a way that even if you where to leave the basket without ordering. You would still have the basket data saved on your device, so the data would persist until manually deleted. Ideally this data would be removed after the browser session is over as to not clog up the costumer’s mobile device.
+
 ### Can you do something to avoid or minimize these conflicts? <a name="ethics.7"></a>
+In order to minimize the afore mentioned problem we could spend more time in order to find a better way of storing the basket info so that it wouldn’t cause problems for the costumers. this however would mean we’d have to spend more tie on an already time costly userstory. But since this is such a minor issue, we decided to leave it be.
+
 
 
 ## Culture <a name="culture"></a>
 
-General knowledge questions:  
 ### What is culture? <a name="culture.1"></a>
 
 ### Which cultural aspects would you keep in mind when facing cultural differences? <a name="culture.2"></a>
@@ -60,7 +67,7 @@ General knowledge questions:
 
 ### How would you  act in the future when you know that you need to communicate or collaborate with a person from another culture? <a name="culture.6"></a>
 
-Questions related to your project (if applicable):
+### Questions related to your project (if applicable):
 ### What did you  do to improve the group communications with respect to cultural differences? <a name="culture.7"></a>
 
 
