@@ -56,22 +56,46 @@ In order to minimize the afore mentioned problem we could spend more time in ord
 ## Culture <a name="culture"></a>
 
 ### What is culture? <a name="culture.1"></a>
+> Culture is the acquired knowledge people use to interpret experience and generate behavior.
+   James Spradley, Anthropologist.
+
+Or, as the [Wikipedia](https://en.wikipedia.org/wiki/Culture ) describes it.
+> Culture (/ˈkʌltʃər/) is an umbrella term which encompasses the social behavior and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, and habits of the individuals in these groups.
+
+All in all, behavior has a lot to do with the way a society thinks and acts.
 
 ### Which cultural aspects would you keep in mind when facing cultural differences? <a name="culture.2"></a>
+The major cultural aspects to keep in mind are **norms** and **values**. it is for instance, very difficult to make a joke that has the same cross-cultural meaning as it does in its original culture. Whether something is funny hinges a lot on what a society finds funny and what they can relate to.
 
-### How can cultures be clustured? <a name="culture.3"></a>
+### How can cultures be clustered? <a name="culture.3"></a>
+Cultures are usually clustered topographically, meaning that most cultures can be described based on geographical location. However, these are only the general ones. If you delve down into our society, you’ll find that there are many more cultures to be found. On my education for example, there are a lot of gamers/ people who are very active on discord and/or other gaming hubs. This culture (even though they might not all play the same games) can relate to each other based on their interests. 
 
 ### Can you give examples for things going not as expected when interacting with people from other cultures? What and why went differently? <a name="culture.4"></a>
+As I mentioned earlier, humor is a very [good example](https://leap.london/culture-shocks-humour-across-cultures/) of something that might not go as expected. A good example of a joke that would not come across is this Chinese joke:
+
+> There are two reasons why you are single: first is nobody is good enough for you; second is you are not good enough for anybody.
+
+And for comparison, here is a British joke:
+
+> Did you hear about the guy who had his entire left side cut off? He’s all right now.
+
+The problem with the Chinese joke is that it is funny in that culture because they understand the language which adds to its meaning.
+
 
 ### What is your culture? <a name="culture.5"></a>
 
-### How would you  act in the future when you know that you need to communicate or collaborate with a person from another culture? <a name="culture.6"></a>
+### How would you act in the future when you know that you need to communicate or collaborate with a person from another culture? <a name="culture.6"></a>
 
 ### Questions related to my project (if applicable):
 
-### What did you  do to improve the group communications with respect to cultural differences? <a name="culture.7"></a>
+### What did you do to improve the group communications with respect to cultural differences? <a name="culture.7"></a>
 
 
 ##  Sources <a name="sources"></a>
 ACM Software Engineering Code - https://ethics.acm.org/code-of-ethics/software-engineering-code/ 
+Culture wiki - https://en.wikipedia.org/wiki/Culture 
+Culture joke references - https://leap.london/culture-shocks-humour-across-cultures/ 
+Cultural clusters - https://cultureplusconsulting.com/2015/03/24/mapping-cultural-distance-cultural-clusters/ 
+
+
 
