@@ -45,7 +45,7 @@ Questions related to your project:
 ### Can you do something to avoid or minimize these conflicts? <a name="ethics.7"></a>
 
 
-Culture <a name="culture"></a>
+## Culture <a name="culture"></a>
 
 General knowledge questions:  
 ### What is culture? <a name="culture.1"></a>
