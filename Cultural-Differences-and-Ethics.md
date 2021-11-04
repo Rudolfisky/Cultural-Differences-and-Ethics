@@ -1,4 +1,4 @@
-# Cultural-Differences-and-Ethics WIP
+# Cultural-Differences-and-Ethics
 ## Table of contents
 1. [Ethics](#ethics)
     1. [What is ethics in software engineering?](#ethics.1)
