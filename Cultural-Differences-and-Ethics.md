@@ -71,6 +71,7 @@ The major cultural aspects to keep in mind are **norms** and **values**. it is f
 Cultures are usually clustered topographically, meaning that most cultures can be described based on geographical location. However, these are only the general ones. If you delve down into our society, you’ll find that there are many more cultures to be found. On my education for example, there are a lot of gamers/ people who are very active on discord and/or other gaming hubs. This culture (even though they might not all play the same games) can relate to each other based on their interests. 
 
 ### Can you give examples for things going not as expected when interacting with people from other cultures? What and why went differently? <a name="culture.4"></a>
+#### Humor
 As I mentioned earlier, humor is a very [good example](https://leap.london/culture-shocks-humour-across-cultures/) of something that might not go as expected. A good example of a joke that would not come across is this Chinese joke:
 
 > There are two reasons why you are single: first is nobody is good enough for you; second is you are not good enough for anybody.
@@ -81,6 +82,17 @@ And for comparison, here is a British joke:
 
 The problem with the Chinese joke is that it is funny in that culture because they understand the language which adds to its meaning.
 
+#### Gender Egalitarianism
+Another good example would be **Gender Egalitarianism**. Gender Egalitarianism describes a society attitude towards different genders, in order to demonstrate, i will use 2 very different society's and (compare Gender Egalitarianism)[https://cultureplusconsulting.com/2015/06/23/nine-cultural-value-differences-you-need-to-know/] from both cultures.
+
+For a **Low** Gender Egalitarianism example, i'll use **Saudi Arabia**.
+in Saudi Arabia, there are very different gender roles.
+> assertive, tough, competitive, and focused on material success. Women are modest, tender, and concerned with quality of life.
+
+For a **High** Gender Egalitarianism example, i'll use **Switzerland**.
+Switzerland is a country in which females and males hold very similar roles. as such
+
+When you compare the both you'll see that switzerland has a lot more women in places of power and a higher percentage of women participating in the labour force when compared to Saudi Arabia.
 
 ### What is your culture? <a name="culture.5"></a>
 My cultural cluster based on geography, as [this site](https://cultureplusconsulting.com/2015/03/24/mapping-cultural-distance-cultural-clusters/) states, is Germanic Europe. I am also however, very active in my online community with people from all over the globe (North America mainly).
@@ -98,6 +110,7 @@ Within my project group we have some minor cultural differences, but in general 
 ACM Software Engineering Code - https://ethics.acm.org/code-of-ethics/software-engineering-code/ 
 Culture wiki - https://en.wikipedia.org/wiki/Culture 
 Culture joke references - https://leap.london/culture-shocks-humour-across-cultures/ 
+Gender Egalitarianism - https://cultureplusconsulting.com/2015/06/23/nine-cultural-value-differences-you-need-to-know/
 Cultural clusters - https://cultureplusconsulting.com/2015/03/24/mapping-cultural-distance-cultural-clusters/ 
 
 
