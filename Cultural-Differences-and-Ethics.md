@@ -83,7 +83,7 @@ And for comparison, here is a British joke:
 The problem with the Chinese joke is that it is funny in that culture because they understand the language which adds to its meaning.
 
 #### Gender Egalitarianism
-Another good example would be **Gender Egalitarianism**. Gender Egalitarianism describes a society attitude towards different genders, in order to demonstrate, i will use 2 very different society's and (compare Gender Egalitarianism)[https://cultureplusconsulting.com/2015/06/23/nine-cultural-value-differences-you-need-to-know/] from both cultures.
+Another good example would be **Gender Egalitarianism**. Gender Egalitarianism describes a society attitude towards different genders, in order to demonstrate, i will use 2 very different society's and [compare Gender Egalitarianism](https://cultureplusconsulting.com/2015/06/23/nine-cultural-value-differences-you-need-to-know/) from both cultures.
 
 For a **Low** Gender Egalitarianism example, i'll use **Saudi Arabia**.
 in Saudi Arabia, there are very different gender roles.
@@ -107,11 +107,11 @@ Within my project group we have some minor cultural differences, but in general 
 
 
 ##  Sources <a name="sources"></a>
-ACM Software Engineering Code - https://ethics.acm.org/code-of-ethics/software-engineering-code/ 
-Culture wiki - https://en.wikipedia.org/wiki/Culture 
-Culture joke references - https://leap.london/culture-shocks-humour-across-cultures/ 
-Gender Egalitarianism - https://cultureplusconsulting.com/2015/06/23/nine-cultural-value-differences-you-need-to-know/
-Cultural clusters - https://cultureplusconsulting.com/2015/03/24/mapping-cultural-distance-cultural-clusters/ 
+ACM Software Engineering Code - https://ethics.acm.org/code-of-ethics/software-engineering-code/ <br/>
+Culture wiki - https://en.wikipedia.org/wiki/Culture  <br/>
+Culture joke references - https://leap.london/culture-shocks-humour-across-cultures/  <br/>
+Gender Egalitarianism - https://cultureplusconsulting.com/2015/06/23/nine-cultural-value-differences-you-need-to-know/ <br/>
+Cultural clusters - https://cultureplusconsulting.com/2015/03/24/mapping-cultural-distance-cultural-clusters/  <br/>
 
 
 
